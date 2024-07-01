@@ -9,9 +9,9 @@ UmraoBisht/UmraoBisht is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=UmraoBisht.UmraoBisht)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=umraobisht&exclude_repo=github-readme-stats,umraobisht.github.io)
+
 <a href="https://github.com/UmraoBisht/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UmraoBisht&theme=aura&show_icons=true&repo=github-readme-stats" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umraobisht&exclude_repo=github-readme-stats,umraobisht.github.io" />
 </a>
 <a href="https://github.com/UmraoBisht/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=UmraoBisht&theme=aura&show_icons=true&repo=convoychat" />
