@@ -9,3 +9,5 @@ UmraoBisht/UmraoBisht is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=UmraoBisht.UmraoBisht)
+
+[![Umrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=UmraoBisht)](https://github.com/UmraoBisht/github-readme-stats)
