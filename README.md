@@ -10,9 +10,9 @@ You can click the Preview link to take a look at your changes.
 --->
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=UmraoBisht.UmraoBisht)
 
-<a href="https://github.com/anuraghazra/github-readme-stats">
+<a href="https://github.com/umraobisht/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umraobisht&&theme=aura&show_icons=true&repo=github-readme-stats" />
 </a>
-<a href="https://github.com/anuraghazra/convoychat">
+<a href="https://github.com/umraobisht/convoychat">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=umraobisht&theme=aura&show_icons=true&repo=convoychat" />
 </a>
