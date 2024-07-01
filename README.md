@@ -12,7 +12,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/UmraoBisht/convoychat">
-  <img align="center" src="![Umrao's GitHub stats](https://github-readme-stats.vercel.app/api?username=umraobisht&theme=aura&show_icons=true)" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=umraobisht&theme=aura&show_icons=true)" />
 </a>
 <a href="https://github.com/UmraoBisht/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=umraobisht&exclude_repo=github-readme-stats,umraobisht.github.io" />
