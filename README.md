@@ -8,7 +8,7 @@
 # Reach me
 [![LinkedIn Badge](https://img.shields.io/badge/-UmraoBisht-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/UmraoBisht)
 [![GitHub Badge](https://img.shields.io/badge/-UmraoBisht-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/UmraoBisht)
-[![LeetCode Badge](https://img.shields.io/badge/-UmraoBisht-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/UmraoBisht)
+[![LeetCode Badge](https://img.shields.io/badge/-UmraoBisht-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Umrao_Bisht/)
 [![Code Studio Badge](https://img.shields.io/badge/-UmraoBisht-0F4C81?style=flat-square&logo=Coding-ninjas&logoColor=white)](https://www.naukri.com/code360/profile/umraobisht)
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=UmraoBisht.UmraoBisht)
 # 🎫 projects
