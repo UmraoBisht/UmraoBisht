@@ -4,13 +4,15 @@
 - 👀 I’m interested in Web Development 💞
 - 🌱 I’m currently learning DSA and Front End Development ❤
 - 💞️ I’m looking to collaborate on Learning 📚
+- ![visitors](https://visitor-badge.laobi.icu/badge?page_id=UmraoBisht.UmraoBisht)
 
 # Reach me
-[![LinkedIn Badge](https://img.shields.io/badge/-UmraoBisht-blue?style=flat-square&logo=LinkedIn&logoColor=white)](https://linkedin.com/in/UmraoBisht)
-[![GitHub Badge](https://img.shields.io/badge/-UmraoBisht-black?style=flat-square&logo=GitHub&logoColor=white)](https://github.com/UmraoBisht)
-[![LeetCode Badge](https://img.shields.io/badge/-UmraoBisht-orange?style=flat-square&logo=LeetCode&logoColor=white)](https://leetcode.com/u/Umrao_Bisht/)
-[![Code Studio Badge](https://img.shields.io/badge/-UmraoBisht-0F4C81?style=flat-square&logo=Coding-ninjas&logoColor=white)](https://www.naukri.com/code360/profile/umraobisht)
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=UmraoBisht.UmraoBisht)
+[![LinkedIn Badge](https://custom-icon-badges.demolab.com/badge/Umrao%20Bisht-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/UmraoBisht)
+[![GitHub Badge](https://custom-icon-badges.demolab.com/badge/Umrao%20Bisht-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/UmraoBisht)
+[![LeetCode Badge](https://custom-icon-badges.demolab.com/badge/Umrao%20Bisht-F9DC5C?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Umrao_Bisht/)
+[![Code Studio Badge](https://custom-icon-badges.demolab.com/badge/Umrao%20Bisht-0F4C81?style=for-the-badge&logo=coding-ninjas&logoColor=white)](https://www.naukri.com/code360/profile/umraobisht)
+
+
 # 🎫 projects
 - [x] [Github Repo](https://umraobisht.github.io/umraobisht/)
 
@@ -19,35 +21,42 @@
 > skills
 
 - 🎨 **front-end**: 
-  ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=JavaScript) 
-  ![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=HTML5) 
-  ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=CSS3) 
-  ![React Js](https://img.shields.io/badge/-React-blue?style=flat-circle&logo=React)
-  ![Bootstrap](https://img.shields.io/badge/-Bootstrap-blue?style=flat-circle&logo=Bootstrap)
-  ![Tailwind](https://img.shields.io/badge/-Tailwind-blue?style=flat-circle&logo=Tailwind)
+![JavaScript](https://custom-icon-badges.demolab.com/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![HTML5](https://custom-icon-badges.demolab.com/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://custom-icon-badges.demolab.com/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![React](https://custom-icon-badges.demolab.com/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Bootstrap](https://custom-icon-badges.demolab.com/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)
+![Tailwind CSS](https://custom-icon-badges.demolab.com/badge/Tailwind%20CSS-38B2AC?style=for-the-badge&logo=tailwindcss&logoColor=white)
+
 
 - ⚙️ **back-end**: 
-  ![NodeJS](https://img.shields.io/badge/-NodeJS-green?style=flat-circle&logo=Node.js) 
-  ![Express JS](https://img.shields.io/badge/-ExpressJs-blue?style=flat-circle&logo=Express) 
-  ![SQL](https://img.shields.io/badge/-SQL-blue?style=flat-circle&logo=Microsoft-SQL-Server)
+![Node.js](https://custom-icon-badges.demolab.com/badge/Node.js-68A063?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://custom-icon-badges.demolab.com/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white) 
+![SQL](https://custom-icon-badges.demolab.com/badge/SQL-025E8C?style=for-the-badge&logo=database&logoColor=white)
+
+
 
 - 🛠️ **tools**: 
-  ![VS Code](https://img.shields.io/badge/-VSCode-blue?style=flat-circle&logo=Visual-Studio-Code) 
-  ![Git](https://img.shields.io/badge/-Git-yellow?style=flat-circle&logo=Git)
-  ![Redux Toolkit](https://img.shields.io/badge/-Redux_Toolkit-purple?style=flat-circle&logo=Redux)
+ ![VS Code](https://custom-icon-badges.demolab.com/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white) 
+![Git](https://custom-icon-badges.demolab.com/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white) 
+![Redux Toolkit](https://custom-icon-badges.demolab.com/badge/Redux%20Toolkit-764ABC?style=for-the-badge&logo=redux&logoColor=white)
+
 
 - 🚀 **deployment**: 
-  ![Vercel](https://img.shields.io/badge/-Vercel-black?style=flat-circle&logo=Vercel)
-  ![Render](https://img.shields.io/badge/-Render-blue?style=flat-circle&logo=Render)
-  ![Netlify](https://img.shields.io/badge/-Netlify-green?style=flat-circle&logo=Netlify)
+ ![Vercel](https://custom-icon-badges.demolab.com/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white) 
+![Render](https://custom-icon-badges.demolab.com/badge/Render-5B7FBA?style=for-the-badge&logo=render&logoColor=white) 
+![Netlify](https://custom-icon-badges.demolab.com/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
+
 
 - 💾 **databases**: 
-  ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB) 
-  ![MySQL](https://img.shields.io/badge/-MySQL-white?style=flat-circle&logo=MySQL)
+![MongoDB](https://custom-icon-badges.demolab.com/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://custom-icon-badges.demolab.com/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
+
 
 - 🌱 **learning**: 
-  ![Next.js](https://img.shields.io/badge/-Next.js-yellow?style=flat-circle&logo=Next.js) 
-  ![TypeScript](https://img.shields.io/badge/-TypeScript-green?style=flat-circle&logo=TypeScript)
+![Next.js](https://custom-icon-badges.demolab.com/badge/Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white) 
+![TypeScript](https://custom-icon-badges.demolab.com/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+
 
 
 # Language and stats
