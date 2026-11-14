@@ -3,7 +3,7 @@
 <!-- ======================================================== -->
 <!-- 1. LIQUID MESH GRADIENT HEADER (Domain Warping Effect)   -->
 <!-- ======================================================== -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,20,24,30&height=240&section=header&text=Umrao%20Bisht&fontSize=65&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%9C%A8%20Full-Stack%20Web%20Developer%20%7C%20DSA%20%26%20Creative%20Frontend%20%E2%9C%A8&descAlignY=58&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=10,13,20,24,30&height=240&section=header&text=Umrao%20Bisht&fontSize=65&fontAlignY=36&animation=twinkling&fontColor=ffffff&desc=%E2%9C%A8%20Full-Stack%20Web%20Developer%20%7C%20DSA%20%26amp%3B%20Creative%20Frontend%20%E2%9C%A8&descAlignY=58&descAlign=50&descSize=19" width="100%" alt="Header Banner" />
 
 <!-- ======================================================== -->
 <!-- 2. ANIMATED TYPEWRITER / TEXT DECODE EFFECT             -->
@@ -119,7 +119,7 @@ const developer = {
     <tr>
       <td align="center">
         <a href="https://github.com/umraobisht">
-          <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api?username=umraobisht&show_icons=true&theme=tokyonight&border_radius=12&locale=en" alt="GitHub Stats" />
+          <img height="180em" src="https://github-stats-extended.vercel.app/api?username=umraobisht&show_icons=true&theme=tokyonight&border_radius=12&locale=en" alt="GitHub Stats" />
         </a>
       </td>
       <td align="center">
@@ -131,7 +131,7 @@ const developer = {
     <tr>
       <td align="center">
         <a href="https://github.com/umraobisht">
-          <img height="180em" src="https://github-readme-stats-anuraghazra.vercel.app/api/top-langs/?username=umraobisht&layout=compact&theme=tokyonight&border_radius=12&exclude_repo=github-readme-stats,umraobisht.github.io" alt="Top Languages" />
+          <img height="180em" src="https://github-stats-extended.vercel.app/api/top-langs/?username=umraobisht&layout=compact&theme=tokyonight&border_radius=12&exclude_repo=github-readme-stats,umraobisht.github.io" alt="Top Languages" />
         </a>
       </td>
       <td align="center">
